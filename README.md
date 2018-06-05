@@ -1,0 +1,3 @@
+# QR-Genrator
+QR Code Generator هو برنامج يستخدم لإنشاء كود qr واختباره باستخدام zxing lib مع vb.net  QR Code Generator is a program use to create qr code and to test it using zxing lib with vb.net  Blog : https://baghdad-un.blogspot.com/ Twitter : https://twitter.com/BaghdadUn Tumblr : https://www.tumblr.com/blog/baghdadun google : https://plus.google.com/100049443847633116895 Facebook : https://www.facebook.com/port.lenovo.94
+# Tags : QR Code Generator is a program use to create qr code and to test it using zxing lib with vb.net,QR Code,QR Code Generator,QR,zxing,program,vb.net,vb,Visual Basic,فجول بيسك,كو ار كود,bar code,create qr,test qr,qr reed
